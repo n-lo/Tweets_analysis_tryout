@@ -1,0 +1,6 @@
+{
+  "name": "Tweets analysis tryout",
+  "tagline": "Scripts of my try out at Tweets analysis",
+  "body": "# Trying out vairous analysis on Tweets\r\n\r\nThis is just a simple repository of my attempt at analysing Tweets.  \r\n\r\n### Files:  \r\ndb2df - script to retrieve data (tweets) from MongoDB into Python pandas dataframe  \r\nonp_01_sentiment_afinn - sentiment measurement of tweets with weighted sentiment words from AFINN  \r\nonp_02_wc - various word clouds of the tweets  \r\nonp_03_topic_modelling - attempt at topic modelling, does not take into account of common phrases (this in next part)  \r\nonp_04_topic_modelling_phrases - also topic modelling, but this time take into account of common phrases  \r\n\r\n#### Note: for file onp_03_topic_modelling and onp_04_topic_modelling_phrases, use the html file version for viewing, the LDAvis is not embbeded in the ipynb files.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
