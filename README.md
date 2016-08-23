@@ -9,4 +9,4 @@ onp_02_wc - various word clouds of the tweets
 onp_03_topic_modelling - attempt at topic modelling, does not take into account of common phrases (this in next part)  
 onp_04_topic_modelling_phrases - also topic modelling, but this time take into account of common phrases  
 
-#### Note: for file onp_03_topic_modelling and onp_04_topic_modelling_phrases, use the html file version for viewing, the LDAvis is not embbeded in the ipynb files.
+#### Note: for file onp_03_topic_modelling and onp_04_topic_modelling_phrases, use the html file version for better viewing of the models, or simply goto https://n-lo.github.io/Tweets_analysis_tryout/
