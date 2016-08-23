@@ -8,3 +8,5 @@ onp_01_sentiment_afinn - sentiment measurement of tweets with weighted sentiment
 onp_02_wc - various word clouds of the tweets  
 onp_03_topic_modelling - attempt at topic modelling, does not take into account of common phrases (this in next part)  
 onp_04_topic_modelling_phrases - also topic modelling, but this time take into account of common phrases  
+
+#### Note: for file onp_03_topic_modelling and onp_04_topic_modelling_phrases, use the html file version for viewing, the LDAvis is not embbeded in the ipynb files.
