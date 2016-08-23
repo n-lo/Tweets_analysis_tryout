@@ -1,4 +1,4 @@
-# Trying out vairous analysis on Tweets
+# Trying out various analytics on Tweets
 
 This is a simple repository of my attempt at analysing Tweets.  
 
@@ -9,4 +9,7 @@ onp_02_wc - various word clouds of the tweets
 onp_03_topic_modelling - attempt at topic modelling, does not take into account of common phrases (this in next part)  
 onp_04_topic_modelling_phrases - also topic modelling, but this time take into account of common phrases  
 
-#### Note: for file onp_03_topic_modelling and onp_04_topic_modelling_phrases, use the html file version (in Docs folder) for better viewing of the models, or simply goto https://n-lo.github.io/Tweets_analysis_tryout/
+#### Note:
+To view the models in topic modelling, either  
+1. use the html file version in Docs folder (if you know how to view html on GitHub rather than the source code), or  
+2. simply goto https://n-lo.github.io/Tweets_analysis_tryout/ and follow the links there (recommeded).
