@@ -1,6 +1,6 @@
 # Trying out various analytics on Tweets
 
-This is a simple repository of my attempt at analysing Tweets.  
+This is a simple repository of my attempt at analysing Tweets. Data set used here is tweets relating to the Australia One Nation party over time.
 
 ### Files:  
 db2df - script to retrieve data (tweets) from MongoDB into Python pandas dataframe  
