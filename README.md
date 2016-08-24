@@ -12,4 +12,8 @@ onp_04_topic_modelling_phrases - also topic modelling, but this time take into a
 #### Note:
 To view the interactive models in topic modelling, either  
 1. use the html file version in Docs folder (if you know how to view html on GitHub rather than the source code), or  
-2. simply goto https://n-lo.github.io/Tweets_analysis_tryout/ and follow the links there (recommeded).
+2. simply goto https://n-lo.github.io/Tweets_analysis_tryout/ and follow the links there (recommeded).  
+
+
+#### Todo:  
+1. adjust number of topics in topic modelling  
